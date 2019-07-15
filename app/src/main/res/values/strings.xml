@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC4Phase1</string>
+    <string name="welcome_msg">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="Alc4_phase1">ALC 4.0 Phase 1</string>
+    <string name="title_name">Alfred Kofi Kodzo</string>
+    <string name="my_name">Name : Alfred Kofi Kodzo</string>
+    <string name="my_track">Track : Android</string>
+    <string name="my_country">Country : Nigeria</string>
+    <string name="my_email">E-mail : alfredkodzo@gmail.com</string>
+    <string name="my_phone_no">Phone : +2348065075262</string>
+    <string name="my_slack_username">Slack Username : @AlfredKofiKodzo</string>
+
+
+</resources>
